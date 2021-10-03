@@ -1,0 +1,14 @@
+D:\trabalho\MindMiners\Projetos\ParsearLegenda\ParsearLegenda.Aplication\bin\Debug\net5.0\ParsearLegenda.Aplication.deps.json
+D:\trabalho\MindMiners\Projetos\ParsearLegenda\ParsearLegenda.Aplication\bin\Debug\net5.0\ParsearLegenda.Aplication.dll
+D:\trabalho\MindMiners\Projetos\ParsearLegenda\ParsearLegenda.Aplication\bin\Debug\net5.0\ref\ParsearLegenda.Aplication.dll
+D:\trabalho\MindMiners\Projetos\ParsearLegenda\ParsearLegenda.Aplication\bin\Debug\net5.0\ParsearLegenda.Aplication.pdb
+D:\trabalho\MindMiners\Projetos\ParsearLegenda\ParsearLegenda.Aplication\obj\Debug\net5.0\ParsearLegenda.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\trabalho\MindMiners\Projetos\ParsearLegenda\ParsearLegenda.Aplication\obj\Debug\net5.0\ParsearLegenda.Aplication.AssemblyInfoInputs.cache
+D:\trabalho\MindMiners\Projetos\ParsearLegenda\ParsearLegenda.Aplication\obj\Debug\net5.0\ParsearLegenda.Aplication.AssemblyInfo.cs
+D:\trabalho\MindMiners\Projetos\ParsearLegenda\ParsearLegenda.Aplication\obj\Debug\net5.0\ParsearLegenda.Aplication.csproj.CoreCompileInputs.cache
+D:\trabalho\MindMiners\Projetos\ParsearLegenda\ParsearLegenda.Aplication\obj\Debug\net5.0\ParsearLegenda.Aplication.dll
+D:\trabalho\MindMiners\Projetos\ParsearLegenda\ParsearLegenda.Aplication\obj\Debug\net5.0\ref\ParsearLegenda.Aplication.dll
+D:\trabalho\MindMiners\Projetos\ParsearLegenda\ParsearLegenda.Aplication\obj\Debug\net5.0\ParsearLegenda.Aplication.pdb
+D:\trabalho\MindMiners\Projetos\ParsearLegenda\ParsearLegenda.Aplication\obj\Debug\net5.0\ParsearLegenda.Aplication.csprojAssemblyReference.cache
+D:\trabalho\MindMiners\Projetos\ParsearLegenda\ParsearLegenda.Aplication\bin\Debug\net5.0\Infra\Resourses\Legenda1.txt
+D:\trabalho\MindMiners\Projetos\ParsearLegenda\ParsearLegenda.Aplication\bin\Debug\net5.0\Infra\Resourses\Sherlock_Holmes_and_the_Secret_Weapon_(1942)_mp4_1h08m36s.srt
