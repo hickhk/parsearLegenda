@@ -48,7 +48,7 @@ namespace ParsearLegenda.Aplication.Domain
                         }
                         else if (!string.IsNullOrEmpty(line))
                         {
-                            legenda.Frase += _util.RetiraAspas(_util.LimpaHtml(line));
+                            legenda.Frase += _util.RetiraAspas(_util.LimpaHtml(line)) + " ";
                         }
                         else if (string.IsNullOrEmpty(line))
                         {

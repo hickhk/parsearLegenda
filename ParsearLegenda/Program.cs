@@ -24,6 +24,8 @@ namespace ParsearLegenda
         private static bool MenuPrincipal()
         {
             Console.Clear();
+            Console.WriteLine("Obs: O diretório do arquivo de legenda e do arquivo txt para salvar as legendas");
+            Console.WriteLine("está configurado no arquivo appsettings.json chave: Files -> Path");
             Console.WriteLine("\r\n");
             Console.WriteLine("*************************MENU*************************************");
             Console.WriteLine("\r\n");
